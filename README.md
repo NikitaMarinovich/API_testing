@@ -1,4 +1,4 @@
-#  🔗 REST and SOAP API testing 
+#  📤 REST and SOAP API testing 
 
 1) As part of the task, I tested all the methods that are presented for the service https://petstore.swagger.io / in Postman and created the corresponding collections.
  <ul>
